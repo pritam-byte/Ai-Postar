@@ -1,4 +1,3 @@
-# Ai-Postar
 # 🧠 AI in Healthcare
 ## Overview
 This project simulates real-world applications of **Artificial Intelligence (AI)** in healthcare through three modules:
